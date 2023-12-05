@@ -45,5 +45,11 @@ host
 	Specify the host you wish to intercept packets for (usually the local gateway).
 ```
 
+-r
+-interface
+`arpspoof [-i interface] 
+
+Sd
+-t
 
 
